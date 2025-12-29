@@ -57,12 +57,11 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=RavikantDhakad01&show_icons=true&theme=tokyonight" />
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=RavikantDhakad01&show_icons=true"/>
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavikantDhakad01&layout=compact&theme=tokyonight" />
-
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavikantDhakad01&layout=compact" />
 ---
 
 ## 🤝 Connect with Me
