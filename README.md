@@ -57,10 +57,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavikantDhakad01&layout=compact&theme=tokyonight" />
 ---
 
-## 🤝 Connect With Me
-- 💼 **LinkedIn:** [ravikant-dhakad](https://www.linkedin.com/in/ravikant-dhakad)
-- 📧 **Email:** [ravikantdhakar456@gmail.com](mailto:ravikantdhakar456@gmail.com)
+## 🤝 Connect with Me
 
+<p>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ravikant-dhakad">Ravikant Dhakad</a></p>
+<p>📧 <b>Email:</b> <a href="mailto:ravikantdhakar456@gmail.com">ravikantdhakar456@gmail.com</a></p>
 ---
 
 ⭐ If you find my work interesting, feel free to explore and star my repositories!
