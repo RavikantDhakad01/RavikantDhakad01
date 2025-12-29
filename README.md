@@ -47,8 +47,8 @@
 - Built using **HTML, CSS, and JavaScript**
 - Clean, responsive UI with core music controls (play, pause, next, previous, seekbar)
 
-🔗 Live Demo: https://your-live-link  
-📂 Repository: https://github.com/username/playdix
+🔗 Live Demo: https://playdix.netlify.app/
+📂 Repository: https://github.com/RavikantDhakad01/playdix-music-player
 ---
 
 ## 📊 GitHub Stats
