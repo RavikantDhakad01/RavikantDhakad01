@@ -40,15 +40,15 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 🚀 Projects
 
 ### 🎵 Playdix — Music Player Web App
 - Built using **HTML, CSS, and JavaScript**
 - Clean, responsive UI with core music controls (play, pause, next, previous, seekbar)
 
-🔗 Live Demo: https://playdix.netlify.app/
-📂 Repository: https://github.com/RavikantDhakad01/playdix-music-player
+🔗 **Live Demo:** [playdix.netlify.app](https://playdix.netlify.app/)  
+📂 **Repository:** [playdix-music-player](https://github.com/RavikantDhakad01/playdix-music-player)
+
 ---
 
 ## 📊 GitHub Stats
