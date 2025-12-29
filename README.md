@@ -51,7 +51,7 @@
 🔗 **Live Demo:** [playdix.netlify.app](https://playdix.netlify.app/)  
 📂 **Repository:** [playdix-music-player](https://github.com/RavikantDhakad01/playdix-music-player)
 
-_(More projects coming soon 🚀)_
+*More projects coming soon 🚀*
 
 ---
 
