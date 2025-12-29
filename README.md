@@ -48,7 +48,7 @@
 - Clean, responsive UI with core music controls (play, pause, next, previous, seekbar)
 - Focused on delivering a smooth and distraction-free music listening experience
 
-🔗 **Live Demo:** [playdix.netlify.app](https://playdix.netlify.app/)  
+🌐 **Live Demo:** [playdix.netlify.app](https://playdix.netlify.app/)  
 📂 **Repository:** [playdix-music-player](https://github.com/RavikantDhakad01/playdix-music-player)
 
 *More projects coming soon 🚀*
@@ -57,9 +57,12 @@
 
 ## 📊 GitHub Stats
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=RavikantDhakad01&show_icons=true"/>
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RavikantDhakad01&show_icons=true&theme=tokyonight" />
+
 <br />
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavikantDhakad01&layout=compact" />
+
+<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavikantDhakad01&layout=compact&theme=tokyonight" />
+
 ---
 
 ## 🤝 Connect with Me
