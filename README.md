@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Pursuing **BCA (Bachelor of Computer Applications)**
-- 🌱 Currently learning **Full-Stack Development** with a strong focus on **Frontend**
+- 🌱 Currently learning **Full-Stack Development** 
 - 🛠️ Working with **HTML, CSS, JavaScript, React, Tailwind CSS** and exploring the **MERN stack**
 - 🎯 Goal: Build impactful, production-ready web applications
 - ⚡ Fun fact: I enjoy breaking code just to understand it better 😄
