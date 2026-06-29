@@ -55,16 +55,6 @@ playdix is a responsive web music player built with vanilla JavaScript, featurin
 
 🌐 **Live Demo:** https://playdix.netlify.app
 
-
-### ✍️ postiqo — Share Your Thoughts
-
-Postiqo is a full-stack blogging web application built using React and Appwrite.  
-It supports user authentication, blog creation, image uploads, and post management with a clean UI.
-
-🌐 **Live Demo:** https://postiqo.vercel.app
-
-💡 Actively building new frontend projects to strengthen real-world skills.
-
 ---
 
 ## 📊 GitHub Stats
