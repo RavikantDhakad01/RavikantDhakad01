@@ -15,11 +15,11 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Pursuing **BCA (Bachelor of Computer Applications)**
-- 🌱 Currently learning **Full-Stack Development** 
-- 🛠️ Working with **HTML, CSS, JavaScript, React, Tailwind CSS** and exploring the **MERN stack**
-- 🎯 Goal: Build impactful, production-ready web applications
-- ⚡ Fun fact: I enjoy breaking code just to understand it better 😄
+- 🎓 Pursuing BCA (Bachelor of Computer Applications)
+- 💻 Building full-stack web applications using the MERN Stack
+- 🌱 Continuously learning modern web technologies and best development practices
+- 🤖 Exploring Generative AI through the IBM SkillsBuild Academic Internship
+- 🎯 Passionate about building scalable, user-friendly, and real-world applications
 
 ---
 
